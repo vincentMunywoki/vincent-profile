@@ -121,7 +121,8 @@ const Navbar = () => {
           <a
             href={resume}
             download="Vincent_Munywoki_Resume.pdf"
-            className="px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300"
+            //className="px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300"
+            className="px-4 py-2 bg-gradient-to-r from-purple-400 to-blue-500 text-white font-semibold rounded-lg hover:from-purple-500 hover:to-blue-600 transition duration-300"
           >
             Resume
           </a>
