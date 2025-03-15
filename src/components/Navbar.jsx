@@ -5,6 +5,8 @@ import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close, github, linkedin } from "../assets"; // Add linkedin import
 
+import resume from "../assets/Vincent_Munywoki_Resume.pdf"; //  Import Resume
+
 const Navbar = () => {
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
@@ -117,13 +119,13 @@ const Navbar = () => {
         {/* Icons for all screens */}
         <div className="flex flex-row gap-4 ml-10 items-center">
           <a
-            href="https://www.linkedin.com/in/vincent-munywoki-523a21252/"
-            target="_blank"
-            rel="noopener noreferrer"
-            download
+            href={resume}
+            download="Vincent_Munywoki_Resume.pdf"
+            className="px-4 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300"
           >
-            <i class="fas fa-download"></i> Resume
+            Resume
           </a>
+
           <a
             href="https://github.com/vincentMunywoki"
             target="_blank"
