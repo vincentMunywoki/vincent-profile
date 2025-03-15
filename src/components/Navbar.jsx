@@ -125,7 +125,7 @@ const Navbar = () => {
             <img src={github} alt="GitHub" className="w-8 h-8 object-contain" />
           </a>
           <a
-            href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/"
+            href="https://www.linkedin.com/in/vincent-munywoki-523a21252/"
             target="_blank"
             rel="noopener noreferrer"
           >
