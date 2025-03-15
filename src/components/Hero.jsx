@@ -24,11 +24,10 @@ const Hero = () => {
               </span>
             </h1>
             <p className="mt-2 text-white-100 text-base sm:text-md md:text-lg lg:text-xl">
-              I am a full-stack developer specializing in front-end technologies like React and Next.js, 
-              back-end systems with Django and Node.js, and data management with SQL and NoSQL databases. 
-              I have hands-on experience with DevOps practices, including setting up CI/CD pipelines using Jenkins and GitLab, 
-              ensuring efficient deployment and continuous delivery. Additionally, I explore machine learning with TensorFlow 
-              to build neural networks for intelligent web applications.
+            I am a full-stack developer with expertise in front-end and back-end technologies, including HTML, CSS, JavaScript, 
+            Python, and C++. With experience in UI/UX design, database management (MySQL, PostgreSQL), and cloud computing (Azure, AWS). 
+            I have developed innovative solutions like an IoT-based smart parking system and a healthcare appointment system using the MERN stack. 
+            I am passionate about problem-solving, continuous learning, and leveraging emerging technologies to drive impactful innovations.
             </p>
 
           </div>
