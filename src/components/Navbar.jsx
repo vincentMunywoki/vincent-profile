@@ -122,13 +122,8 @@ const Navbar = () => {
             rel="noopener noreferrer"
             download
           >
-            <img
-              src={downloadIcon}
-              alt="Download"
-              className="w-8 h-8 object-contain"
-            />
+            <i class="fas fa-download"></i> Resume
           </a>
-
           <a
             href="https://github.com/vincentMunywoki"
             target="_blank"
