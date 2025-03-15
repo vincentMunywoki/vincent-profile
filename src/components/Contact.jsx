@@ -59,7 +59,7 @@ const Contact = () => {
         {/* LinkedIn and GitHub Links Section */}
         <div className="flex gap-6 mt-6">
           <a
-            href="https://www.linkedin.com/in/emmanuel-makau-40a12028b/"
+            href="https://www.linkedin.com/in/vincent-munywoki-523a21252/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-2xl hover:text-blue-600"
@@ -67,7 +67,7 @@ const Contact = () => {
             <FaLinkedin />
           </a>
           <a
-            href="https://github.com/Emmanuel10701"
+            href="https://github.com/vincentMunywoki"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white text-2xl hover:text-gray-900"
