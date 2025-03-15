@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { CircularProgress } from '@mui/material';
 import { Download } from 'lucide-react';
 import { motion } from 'framer-motion';
-import resume from '../assets/resume.pdf'; // Import the resume file from the assets folder
+import resume from '../assets/Vincent_Munywoki_resume.pdf'; // Import the resume file from the assets folder
 
 // Define the Hero component
 const Hero = () => {
