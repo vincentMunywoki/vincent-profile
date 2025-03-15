@@ -29,7 +29,7 @@ const Contact = () => {
               href='mailto:emmanuelmakau90@gmail.com'
               className='text-white text-lg hover:underline'
             >
-              emmanuelmakau90@gmail.com
+              vincentmunywoki12@gmail.com
             </a>
           </div>
           <div className='flex items-center gap-2'>
@@ -38,7 +38,7 @@ const Contact = () => {
               href='tel:0793472960'
               className='text-white text-lg hover:underline'
             >
-              0793472960
+              0702463477
             </a>
           </div>
         </div>
