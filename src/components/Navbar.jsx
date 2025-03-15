@@ -118,7 +118,7 @@ const Navbar = () => {
         {/* Icons for all screens */}
         <div className="flex flex-row gap-4 ml-10 items-center">
           <a
-            href="https://github.com/Emmanuel10701"
+            href="https://github.com/vincentMunywoki"
             target="_blank"
             rel="noopener noreferrer"
           >
