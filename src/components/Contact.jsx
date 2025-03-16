@@ -74,7 +74,7 @@ const Contact = () => {
             href="https://www.linkedin.com/in/vincent-munywoki-523a21252/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue text-2xl hover:text-white-600"
+            className="text-white text-2xl hover:text-blue-600"
           >
             <FaLinkedin />
           </a>
