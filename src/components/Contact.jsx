@@ -82,7 +82,7 @@ const Contact = () => {
             href="https://github.com/vincentMunywoki"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-white text-2xl hover:text-gray-900"
+            className="text-white text-2xl hover:text-blue-900"
           >
             <FaGithub />
           </a>
