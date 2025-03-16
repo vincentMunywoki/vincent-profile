@@ -9,6 +9,8 @@ import "react-toastify/dist/ReactToastify.css";
 import { Mail, Phone } from "lucide-react";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 
+import resume from "../assets/Vincent_Munywoki_Resume.pdf"; //  Import Resume
+
 const Contact = () => {
   return (
     <div
