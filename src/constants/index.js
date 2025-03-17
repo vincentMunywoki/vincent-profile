@@ -134,16 +134,15 @@ import {
   const experiences = [
     {
       title: "Full-Stack Developer",
-      company_name: "Dedan Kimathi University of Technology",
+      company_name: "University of Embu",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "Jan 2024 - Nov 2024",
+      date: "Jan 2024 - Apr 2024",
       points: [
         "Designed and developed responsive websites using HTML, CSS, JavaScript, and React.",
-        "Implemented backend services with Django and integrated them with frontend components.",
+        "Implemented backend services with MERN stack and integrated them with frontend components.",
         "Ensured optimal performance and responsiveness across all devices and screen sizes.",
         "Collaborated with cross-functional teams to improve web application features and user experiences.",
-        "Focused on maintaining a clean codebase and following best practices for scalability and performance.",
       ],
     },
     {
