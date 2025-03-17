@@ -259,8 +259,8 @@ import {
         },
       ],
       image: blog, // Using the imported blog image
-      source_code_link: "https://github.com/Emmanuel10701/developers_blog",
-      live_site_link: "https://developers-home.vercel.app/",
+      source_code_link: "https://github.com/vincentMunywoki/elearning-web",
+      live_site_link: "https://vincentmunywoki.github.io/elearning-web/courses.html",
     },
     {
       name: "Rental",
