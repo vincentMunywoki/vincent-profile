@@ -135,7 +135,7 @@ const experiences = [
     company_name: "Havalaa Technologies",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "May 2024 - Aug 2024",
+    date: "June 2024 - Aug 2024",
     points: [
       "Led the design of intuitive UIs, collaborating in a team of 4 developers to ensure seamless  integration, resulting in a 20% reduction in user onboarding time.",
       "Created high-fidelity wireframes and prototypes using Figma contributing to a 15% increase in user retention rates through improved usability.",
