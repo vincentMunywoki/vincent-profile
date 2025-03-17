@@ -191,7 +191,6 @@ import {
   
   const testimonials = [
     {
-      name: "University of Embu",
       testimonial:
         "At University of Embu, I excelled academically and developed a strong passion for full-stack software development, which fueled my career aspirations.",
       name: "University of Embu",
