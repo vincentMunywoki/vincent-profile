@@ -42,7 +42,7 @@ const Contact = () => {
               href="tel:0793472960"
               className="text-white text-lg hover:underline"
             >
-              0702463477
+              254702463477
             </a>
           </div>
         </div>
