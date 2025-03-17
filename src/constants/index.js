@@ -260,7 +260,7 @@ import {
       ],
       image: blog, // Using the imported blog image
       source_code_link: "https://github.com/vincentMunywoki/elearning-web",
-      live_site_link: "https://vincentmunywoki.github.io/elearning-web/courses.html",
+      live_site_link: "https://vincentmunywoki.github.io/elearning-web/",
     },
     {
       name: "Rental",
