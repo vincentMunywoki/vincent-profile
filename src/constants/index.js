@@ -241,7 +241,7 @@ import {
       live_site_link: "https://healthcare-project-sepia.vercel.app/",
     },
     {
-      name: "Blog",
+      name: "E-Learning site",
       description:
         "A dynamic blog platform allowing users to post and manage articles.",
       tags: [
@@ -263,9 +263,9 @@ import {
       live_site_link: "https://vincentmunywoki.github.io/elearning-web/",
     },
     {
-      name: "Rental",
+      name: "Quiz App",
       description:
-        "A rental platform for managing properties, booking, and customer interactions.",
+        "A dynamic quiz platform designed for interactive learning and assessment, featuring customizable quizzes.", 
       tags: [
         {
           name: "react",
@@ -282,7 +282,7 @@ import {
       ],
       image: rental, // Using the imported rental image
       source_code_link: "https://github.com/Emmanuel10701/Apartments",
-      live_site_link: "https://apartments-site-rental.vercel.app/",
+      live_site_link: "https://vincentmunywoki.github.io/my-quiz-app/",
     },
   ];
   
