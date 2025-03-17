@@ -29,7 +29,7 @@ import typescript from "./tech/typescript.png";
 import doctor from "./d1.png";
 import University from "./university.png";
 import blog from "./blog.png";
-import rental from "./ap3.png";
+import quiz from "./quiz.png";
 import comerce from "./comerce.png";
 
 import meta from "./company/meta.png";
@@ -57,7 +57,7 @@ export {
   resune,
   blog,
   python,
-  rental,
+  quiz,
   tensorflow,
   next,
   SQL,

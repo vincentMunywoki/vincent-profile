@@ -27,7 +27,7 @@ import {
     Pytorch,
     University,
     doctor,
-    rental,
+    quiz,
     blog,
   } from "../assets";
   
@@ -272,16 +272,16 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "nodejs",
+          name: "javascript",
           color: "green-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "html/css",
           color: "pink-text-gradient",
         },
       ],
-      image: rental, // Using the imported rental image
-      source_code_link: "https://github.com/Emmanuel10701/Apartments",
+      image: quiz, // Using the imported quiz image
+      source_code_link: "https://github.com/vincentMunywoki/my-quiz-app",
       live_site_link: "https://vincentmunywoki.github.io/my-quiz-app/",
     },
   ];
