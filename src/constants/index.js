@@ -191,10 +191,11 @@ import {
   
   const testimonials = [
     {
+      name: "University of Embu",
       testimonial:
-        "At Dedan Kimathi University of Technology, I excelled academically and developed a strong passion for full-stack software development, which fueled my career aspirations.",
-      name: "Dedan Kimathi University of Technology",
-      designation: "[2022-2024]",
+        "At University of Embu, I excelled academically and developed a strong passion for full-stack software development, which fueled my career aspirations.",
+      name: "University of Embu",
+      designation: "[2020 - 2024]",
       company: "Student with Academic Excellence and Passion for Full-Stack Development",
       image: University,
     },
