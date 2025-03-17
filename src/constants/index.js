@@ -243,7 +243,7 @@ import {
     {
       name: "E-Learning site",
       description:
-        "A dynamic blog platform allowing users to post and manage articles.",
+        "An interactive e-learning platform offering engaging courses for effective online education.",
       tags: [
         {
           name: "scss",
