@@ -237,7 +237,7 @@ import {
         },
       ],
       image: doctor, // Using the imported doctor image
-      source_code_link: "https://github.com/Emmanuel10701/Healthcare-",
+      source_code_link: "https://github.com/vincentMunywoki/Doctor-appointment-booking-system",
       live_site_link: "https://healthcare-project-sepia.vercel.app/",
     },
     {
