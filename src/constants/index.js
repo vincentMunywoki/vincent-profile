@@ -265,7 +265,7 @@ import {
     {
       name: "Quiz App",
       description:
-        "A dynamic quiz platform designed for interactive learning and assessment, featuring customizable quizzes.", 
+        "A dynamic quiz platform designed for interactive learning and assessment.", 
       tags: [
         {
           name: "react",
