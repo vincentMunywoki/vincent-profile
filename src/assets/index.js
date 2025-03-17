@@ -28,6 +28,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import doctor from "./d1.png";
 import University from "./university.png";
+import udemy from "./udemy.png";
 import blog from "./blog.png";
 import quiz from "./quiz.png";
 import comerce from "./comerce.png";
@@ -53,6 +54,7 @@ export {
   logo,
   comerce,
   University,
+  udemy,
   doctor,
   resune,
   blog,

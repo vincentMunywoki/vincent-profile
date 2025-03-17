@@ -26,6 +26,7 @@ import {
     next,
     Pytorch,
     University,
+    udemy,
     doctor,
     quiz,
     blog,
@@ -60,7 +61,7 @@ import {
       icon: backend,
     },
     {
-      title: "Machine Learning And AI  Developer ",
+      title: "Internet of Things Associate ",
       icon: creator,
     },
   ];
@@ -200,19 +201,19 @@ import {
     },
     {
       testimonial:
-        "My time at Dedan Kimathi University of Technology helped me focus on leadership and academic growth, preparing me to contribute effectively in various activities.",
-      name: "Dedan Kimathi University of Technology",
+        "My time at University of Embu helped me focus on leadership and academic growth, preparing me to contribute effectively in various activities.",
+      name: "University of Embu",
       designation: "[2022-2024]",
       company: "Leadership and Academic Excellence",
       image: University,
     },
     {
       testimonial:
-        "Currently pursuing a degree in Mathematics and Statistics, I’m building a strong foundation in data analysis, statistics, and software development, fueling my passion for technology.",
-      name: "Dedan Kimathi University of Technology",
-      designation: "[2021-2024]",
-      company: "Undergraduate Student",
-      image: University,
+        "Currently upskilling in a RESTful APIs course to enhance backend development and integration skills, fueling my passion for technology.",
+      name: "Udemy Business",
+      designation: "[2024-2025]",
+      company: "Professional studies",
+      image: udemy,
     },
   ];
   
