@@ -246,11 +246,11 @@ import {
         "A dynamic blog platform allowing users to post and manage articles.",
       tags: [
         {
-          name: "react",
+          name: "scss",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "javascript",
           color: "green-text-gradient",
         },
         {
