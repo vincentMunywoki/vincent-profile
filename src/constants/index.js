@@ -131,6 +131,20 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Frontend Developer with React",
+    company_name: "Personal Projects",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "April 2023 - Jan 2024",
+    points: [
+      "Built dynamic and scalable frontend applications using React JS, focusing on reusability and performance.",
+      "Utilized React's component-based architecture to create modular and maintainable user interfaces.",
+      "Improved user experience by optimizing page load times and enhancing interactivity.",
+      "Integrated frontend components with RESTful APIs and third-party services.",
+      "Ensured cross-browser compatibility and responsiveness for a seamless user experience across devices.",
+    ],
+  },
+  {
     title: "Product Designer",
     company_name: "Havalaa Technologies",
     icon: starbucks,
@@ -143,17 +157,15 @@ const experiences = [
     ],
   },
   {
-    title: "React.js Full-Stack Developer",
-    company_name: "Open Source Projects",
+    title: "ICT Support Associate",
+    company_name: "JKUAT",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "May 2024 - Present",
+    date: "May 2023 - Aug 2023",
     points: [
-      "Built full-stack applications using Next.js, integrating frontend React components with backend API services.",
-      "Optimized performance and SEO through server-side rendering and static site generation.",
-      "Implemented authentication, state management, and API integrations to enhance functionality.",
-      "Contributed to open-source projects, focusing on scalable web applications and UI/UX improvements.",
-      "Worked closely with other developers to ensure clean, maintainable code with unit and integration tests.",
+      "Configured, monitored, and troubleshoot network systems at JKUAT, reducing network downtime by 30% and enhancing overall IT infrastructure reliability.",
+      "Hosted 10+ hands-on training sessions for IT staff, improving team responsiveness to network issues by 25% through enhanced technical skills.",
+      "Worked closely with other Network engineers to ensure maxmum uptime, maintainable infrustucture with unit and integration tests.",
     ],
   },
   {
