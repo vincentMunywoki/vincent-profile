@@ -12,6 +12,9 @@ This is a personal portfolio website built using **Vite** for fast development, 
 - **Axios** - For fetching external data
 - **React Icons** - For adding professional-looking icons
 
+- - **Axios** - For fetching external data
+- **React Icons** - For adding professional-looking icons
+
 ## Features
 - **Personal Introduction** - Brief introduction about me and my background.
 - **Skills Section** - Highlights my technical and soft skills.
