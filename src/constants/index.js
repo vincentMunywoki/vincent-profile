@@ -131,6 +131,21 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Information Technology Consultant",
+    company_name: "Nedvel Consultant Ltd",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "Nov 2024 - June 2025",
+    points: [
+      "Implemented secure cloud migration and access controls, improving data protection and business continuity.",
+      "Developed and deployed a secure, responsive website, enhancing online presence and minimizing vulnerabilities.",
+      "Advised on basic cybersecurity best practices, reducing exposure to common threats and improving digital trust.",
+      "Guided clients in adopting digital systems and ICT solutions.",
+      "Provided training on secure communication, website management, and digital best practices.",
+      "Supported team learning through documentation and client tutorials.",
+    ],
+  },
+  {
     title: "Frontend Developer with React",
     company_name: "Personal Projects",
     icon: shopify,
